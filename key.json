@@ -22,5 +22,9 @@
   "TEST-I64-568-Z38": {
     "hwid": "ba8fdba1c955e38ebc9822483cee02171d224f134a0d7e29678b280ac9298cd4",
     "status": "active"
+  },
+  "TEST-I54-561-903": {
+    "hwid": "",
+    "status": "active"
   }
 }
