@@ -26,5 +26,29 @@
   "TEST-I54-561-903": {
     "hwid": "",
     "status": "active"
+  },
+  "TEST-1": {
+    "hwid": "",
+    "status": "active"
+  },
+  "TEST-2": {
+    "hwid": "",
+    "status": "active"
+  },
+  "TEST-3": {
+    "hwid": "",
+    "status": "active"
+  },
+  "TEST-4": {
+    "hwid": "",
+    "status": "active"
+  },
+  "TEST-5": {
+    "hwid": "",
+    "status": "active"
+  },
+  "TEST-6": {
+    "hwid": "",
+    "status": "active"
   }
 }
